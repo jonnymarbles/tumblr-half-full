@@ -30,9 +30,9 @@ From the root directory run: `php RunBoggle.php [word]`
 
 I love unit tests. They help me develop. They're also probably why I took a little longer on these tasks. If you'd like to run them:
 
-`php composer.phar install`
-`cd tests`
-`sh run-tests.sh`
+* `php composer.phar install`
+* `cd tests`
+* `sh run-tests.sh`
 
 # The Design Question
 
