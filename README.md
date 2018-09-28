@@ -1,6 +1,6 @@
-## The Coding Questions
+# THE CODING QUESTIONS
 
-### AnagramFinder
+## AnagramFinder
 
 #### How long it took:
 
@@ -10,7 +10,7 @@ I spent about 30 mins on this one. Really 40, but those first 10 were spent sett
 
 From the root directory run: `php RunAnagramFinder.php`
 
-### Boggle
+## Boggle
 
 #### How long it took:
 
@@ -26,7 +26,7 @@ Also, due to not wanting to spend any longer due to the time constraints, I do w
 
 From the root directory run: `php RunBoggle.php [word]`
 
-### Unit Tests
+## Unit Tests
 
 I love unit tests. They help me develop. They're also probably why I took a little longer on these tasks. If you'd like to run them:
 
@@ -34,6 +34,6 @@ I love unit tests. They help me develop. They're also probably why I took a litt
 `cd tests`
 `sh run-tests.sh`
 
-## The Design Question
+# The Design Question
 
-### asdf
+I have uploaded a PDF containing my thoughts on that section, which you can find in `/docs`.
